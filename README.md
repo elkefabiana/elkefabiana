@@ -1,9 +1,8 @@
-### Oi!!! Sou a Elke, aluna em Tecnologia da Informação 👋
+### Oi!!! Sou a Elke 👋
 
 
-- 🔭 Eu sou aluna de tecnologia
+- 🔭 Graduada em Analise de Sistema
 - 🌱 Instituo Federal de Ciências e tecnologia de São Paulo
-- 👯 Gradução em andamento em Analises e Desenvolvimento de Sistemas
 - 💞 Desenvolvedora Front End
 - 💬 Conhecimento Full Stack
 - 📫 Inglês Básico
